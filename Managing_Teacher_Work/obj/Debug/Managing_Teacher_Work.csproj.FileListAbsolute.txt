@@ -1,0 +1,254 @@
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe.config
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.rsp
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.exe
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.rsp
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.AppContext.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Collections.Immutable.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Reflection.Metadata.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe.config
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.rsp
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe.config
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll.config
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.pdb
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Web.Infrastructure.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.pdb
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Schema.Sql.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Utilities.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.xml
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\CKFinder.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csprojResolveAssemblyReference.cache
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.pdb
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe.config
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.rsp
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.exe
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.rsp
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.AppContext.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Collections.Immutable.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Reflection.Metadata.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe.config
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.rsp
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe.config
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll.config
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.pdb
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\CKFinder.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Components.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Web.Infrastructure.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.pdb
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.xml
+D:\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.AssemblyReference.cache
+D:\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.CoreCompileInputs.cache
+D:\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.dll
+D:\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.pdb
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll.config
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.pdb
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\CKFinder.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.pdb
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.CopyComplete
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.pdb
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.exe.config
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csc.rsp
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.exe
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\csi.rsp
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.AppContext.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Collections.Immutable.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\System.Reflection.Metadata.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.exe.config
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\vbc.rsp
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\roslyn\VBCSCompiler.exe.config
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll.config
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Managing_Teacher_Work.pdb
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\CKFinder.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Data.Tools.Components.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.Web.Infrastructure.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Common.pdb
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\EntityFramework.SqlServer.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\Newtonsoft.Json.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\PagedList.Mvc.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Razor.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Deployment.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Webpages.Razor.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Helpers.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\bin\System.Web.Mvc.xml
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.AssemblyReference.cache
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.CoreCompileInputs.cache
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.csproj.CopyComplete
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Managing_Teacher_Work\obj\Debug\Managing_Teacher_Work.pdb

@@ -1,0 +1,19 @@
+{
+  "FilePath": "e:\\TaiLieuHoc\\Lập trình Web MVC\\Managing_Teacher_Work\\Managing_Teacher_Work\\Managing_Teacher_Work\\Managing_Teacher_Work.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

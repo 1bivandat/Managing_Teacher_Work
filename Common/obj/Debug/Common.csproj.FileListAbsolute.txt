@@ -1,0 +1,22 @@
+G:\PROJECT-FINAL\Managing_Teacher_Work\Common\bin\Debug\Common.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Common\bin\Debug\Common.pdb
+G:\PROJECT-FINAL\Managing_Teacher_Work\Common\obj\Debug\Common.dll
+G:\PROJECT-FINAL\Managing_Teacher_Work\Common\obj\Debug\Common.pdb
+G:\PROJECT-FINAL\Managing_Teacher_Work\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Managing_Teacher_Work\Common\bin\Debug\Common.dll
+D:\Managing_Teacher_Work\Common\bin\Debug\Common.pdb
+D:\Managing_Teacher_Work\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Managing_Teacher_Work\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Managing_Teacher_Work\Common\obj\Debug\Common.dll
+D:\Managing_Teacher_Work\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Common\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.dll
+C:\Users\Admin\Desktop\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.pdb
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Common\bin\Debug\Common.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Common\bin\Debug\Common.pdb
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.dll
+E:\TaiLieuHoc\Lập trình Web MVC\Managing_Teacher_Work\Managing_Teacher_Work\Common\obj\Debug\Common.pdb
